@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "polygon": {
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
@@ -657,7 +657,7 @@
         },
         {
             "type": "Feature",
-            "polygon": {
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
@@ -1311,7 +1311,7 @@
         },
         {
             "type": "Feature",
-            "polygon": {
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
@@ -2153,7 +2153,7 @@
         },
         {
             "type": "Feature",
-            "polygon": {
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
@@ -2627,7 +2627,7 @@
         },
         {
             "type": "Feature",
-            "polygon": {
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
